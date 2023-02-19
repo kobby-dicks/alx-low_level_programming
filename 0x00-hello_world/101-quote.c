@@ -1,5 +1,5 @@
-#include <stdio>
-#include <unistd>
+#include <stdio.h>
+#include <unistd.h>
 
 /**
  * main - This is a Program that uses fputs to print
