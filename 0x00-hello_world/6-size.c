@@ -1,4 +1,4 @@
-#include <sdtio.h>
+#include <stdio.h>
 
 /**
  * main - This is a script that prints outs the sizes of various data.
